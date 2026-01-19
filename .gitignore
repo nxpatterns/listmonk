@@ -11,10 +11,10 @@ email-builder/yarn.lock
 email-builder/dist/
 static/public/static/altcha.umd.js
 .vscode/
+.DS_Store
 
 config.toml
 node_modules
 listmonk
 dist/*
 uploads/
-.DS_Store
